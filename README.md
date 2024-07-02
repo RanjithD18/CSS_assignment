@@ -1,5 +1,4 @@
 ## Assignment 2
-
 ### home.html:
 ~~~
 <!DOCTYPE html>
